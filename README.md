@@ -102,5 +102,5 @@ CI fails a tag that does not match `__version__`. The hub installs an exact
 release:
 
 ```bash
-pip install "wall-template @ git+https://github.com/rokikxf/wall-template@v0.1.0"
+pip install "wall-template @ git+https://github.com/Rokikxf/wall-template@v0.1.0"
 ```
